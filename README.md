@@ -16,6 +16,8 @@ The data was collected from a Sun Sparcstation 20/712 with 128 Mbytes of memory 
 As you are a budding data scientist you thought to find out a linear equation to build a model to predict 'usr'(Portion of time (%) that cpus run in user mode) and to find out how each attribute affects the system to be in 'usr' mode using a list of system attributes.
 
 Dataset for Problem 1: compactiv.xlsx
+![image](https://github.com/LavanyaNR/Project---Predictive-Modelling/assets/152005594/645d7312-e566-4016-acc1-acb625a96ba2)
+
 
 ## Problem 2 : Logistic Regression, LDA and CART
 
@@ -24,3 +26,6 @@ You are a statistician at the Republic of Indonesia Ministry of Health and you a
 The problem is to predict do/don't they use a contraceptive method of choice based on their demographic and socio-economic characteristics.
 
 Dataset for Problem 2: Contraceptive_method_dataset.xlsx
+
+![image](https://github.com/LavanyaNR/Project---Predictive-Modelling/assets/152005594/4cd71214-a93a-4758-801b-4b9f463fbe59)
+
